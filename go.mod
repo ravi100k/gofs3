@@ -1,7 +1,8 @@
 module github.com/ravi100k/gofs3
 
-go 1.23
-// This module requires Go 1.17 or later.
+go 1.24
+
+// This module requires Go 1.23 or later.
 
 require (
 	bazil.org/fuse v0.0.0-20230120002735-62a210ff1fd5
