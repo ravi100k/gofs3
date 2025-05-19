@@ -1,6 +1,6 @@
 module github.com/ravi100k/gofs3
 
-go 1.17
+go 1.23
 // This module requires Go 1.17 or later.
 
 require (
